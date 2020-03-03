@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: victor
+Build-Jdk: 11.0.2
+Implementation-Title: trabalho-final-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: trabalho-final-web
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/trabalho-final-web
+Created-By: Maven Integration for Eclipse
+
